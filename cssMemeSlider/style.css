@@ -68,7 +68,7 @@ img {
   background-color: black;
 }
 
-@media (max-width: 90rem) {
+@media (max-width: 64rem) {
   .wrapper {
     background-color: black;
     padding: 2rem;
